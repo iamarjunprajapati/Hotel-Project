@@ -1,0 +1,35 @@
+*{
+    box-sizing:border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+#contact-form{
+    margin: 70px 0px;
+    border: 2px solid;
+    padding: 50px 0px;
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 45%;
+    display: block;
+    margin: 8px auto;
+    padding: 3px 5px;
+    border: 2px solid rgb(194, 126, 0);
+    border-radius: 8px;
+}
+.btn{
+    margin: 0px auto;
+    display: block;
+    padding: 8px 15px;
+    background-color: orange;
+    border: none;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+
